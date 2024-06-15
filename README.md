@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ethical hacking, digital forensics, and cloud security.
 - 🧑‍💻 I’m looking to collaborate on projects related to cybersecurity, especially those that involve penetration testing, vulnerability analysis, or security awareness training.
 - 💬 Ask me about cybersecurity best practices, upcoming trends in the field, or my journey towards becoming a cybersecurity consultant.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/santadoxx/">LinkedIn</a>
+- 📫 Reach me: <a href="https://www.linkedin.com/in/santadoxx/">LinkedIn</a>
 - ⚡ Fun fact: I paint, quiet a lot.
 
 
