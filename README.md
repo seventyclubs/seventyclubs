@@ -71,9 +71,3 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
 </div>
-
-<h2>My Stats</h2>
-
-<a href="https://tryhackme.com/p/saintlaurent"><img src="https://tryhackme-badges.s3.amazonaws.com/saintlaurent.png"></a>
-
-###
