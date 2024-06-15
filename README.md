@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
   <img width="12" />
