@@ -74,6 +74,6 @@ Here are some ideas to get you started:
 
 <h2>My Stats</h2>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/saintlaurent.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/saintlaurent"><img src="https://tryhackme-badges.s3.amazonaws.com/saintlaurent.png"></a>
 
 ###
