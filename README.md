@@ -1,7 +1,5 @@
 ## Hey 👋 What's up?
 
-Here are some ideas to get you started:
-
 - 🧠 I’m currently working on my DevSecOps skills through various projects.
 - 🌱 I’m currently learning web development, ethical hacking, digital forensics, cloud computing and machine learning.
 - 🧑‍💻 I’m looking to collaborate on projects related to cybersecurity, especially those that involve penetration testing, vulnerability analysis, or security awareness training.
