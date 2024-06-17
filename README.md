@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🧠 I’m currently working on my cybersecurity skills through various practice projects.
-- 🌱 I’m currently learning ethical hacking, digital forensics, and cloud security.
+- 🧠 I’m currently working on my DevSecOps skills through various projects.
+- 🌱 I’m currently learning web development, ethical hacking, digital forensics, cloud computing and machine learning.
 - 🧑‍💻 I’m looking to collaborate on projects related to cybersecurity, especially those that involve penetration testing, vulnerability analysis, or security awareness training.
 - 💬 Ask me about cybersecurity best practices, upcoming trends in the field, or my journey towards becoming a cybersecurity consultant.
 - 📫 Reach me: <a href="https://www.linkedin.com/in/santadoxx/">LinkedIn</a>
