@@ -2,7 +2,7 @@
 
 - 🧠 I’m currently working on my DevSecOps skills through various projects.
 - 🌱 I’m currently learning computer science, web development, ethical hacking, digital forensics, cloud computing and machine learning.
-- 🧑‍💻 I’m looking to collaborate on projects related to cybersecurity, especially those that involve penetration testing, vulnerability analysis, or security awareness training.
+- 🧑‍💻 I’m looking to collaborate on projects related to cybersecurity.
 - 💬 Ask me about cybersecurity best practices, upcoming trends in the field, or my journey towards becoming a cybersecurity consultant.
 - 📫 Reach me: <a href="https://www.linkedin.com/in/santadoxx/">LinkedIn</a>
 - ⚡ Fun fact: I paint, quiet a lot.
