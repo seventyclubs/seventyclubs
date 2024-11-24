@@ -1,8 +1,8 @@
 ## Hey 👋 What's up?
 
-- 🧠 I’m currently working on my DevSecOps skills through various projects.
+- 🧠 I’m currently working on my DevSecOps skills as an undergraduate.
 - 🌱 I’m currently learning computer science, web development, ethical hacking, digital forensics, cloud computing and machine learning.
-- 🧑‍💻 I’m looking to collaborate on FOSS projects.
+- 🧑‍💻 I’m looking to collaborate on unique projects that dare to #MakeADifference.
 - 💬 Ask me about cybersecurity best practices, upcoming trends in the field, or my journey towards becoming a cybersecurity consultant.
 - 📫 Reach me: <a href="https://www.linkedin.com/in/seventyclubs">LinkedIn</a>
 - ⚡ Fun fact: I paint, quiet a lot.
