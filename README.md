@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I paint, quiet a lot.
 
 
-<h2 align="left">I am familar with,</h2>
+<h2 align="left">I Work With,</h2>
 
 ###
 <div align="left">
